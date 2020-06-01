@@ -18,7 +18,6 @@ class MainController extends AppController {
         ];
 
 
-
         \APP\core\base\View::setMeta($META);
         $operators = $Panel->getoperators(15);
         $this->set(compact('operators'));

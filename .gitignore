@@ -2,7 +2,6 @@
 vendor/*
 composer.lock
 config/main-local.php
-logs/*
 temp_load/*
 uploads*
 global_assets/*
